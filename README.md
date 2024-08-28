@@ -11,4 +11,6 @@ I enjoy exploring new data analysis tools and techniques in my free time, and I 
 
 Here is my [CV](https://github.com/Fuegillo/Data-Analysis-Portoflio/blob/main/Marcos_Garcia_CV.pdf).
 
+This is a repository to showcase skills and share projects.
+
 ## Table of Contents
