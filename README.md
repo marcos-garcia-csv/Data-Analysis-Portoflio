@@ -10,3 +10,5 @@ I am currently studying Data Science & Analytics at Instituto Tecnológico de La
 I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 Here is my [CV](https://github.com/Fuegillo/Data-Analysis-Portoflio/blob/main/Marcos_Garcia_CV.pdf).
+
+## Table of Contents
