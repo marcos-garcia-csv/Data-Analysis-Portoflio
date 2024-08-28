@@ -14,3 +14,5 @@ Here is my [CV](https://github.com/Fuegillo/Data-Analysis-Portoflio/blob/main/Ma
 This is a repository to showcase skills and share projects.
 
 ## Table of Contents
+
+-[About](https://github.com/Fuegillo/Data-Analysis-Portoflio/edit/main/README.md)
