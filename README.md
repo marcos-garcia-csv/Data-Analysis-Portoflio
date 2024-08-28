@@ -3,6 +3,10 @@
 
 👋 Hi, I'm Marcos!
 
-I'm an aspiring Data Analyst with a strong passion for transforming data into actionable insights. I have hands-on experience with SQL, Python, Excel, and data visualization tools like Power BI and Tableau. My work focuses on uncovering patterns and trends that drive decision-making and business growth.
+I'm an aspiring Data Analyst passionate about transforming data into actionable insights. I have hands-on experience with SQL, Python, Excel, and data visualization tools like Power BI and Tableau. My work involves uncovering patterns and trends that drive decision-making and business growth.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I am currently studying Data Science & Analytics at Instituto Tecnológico de Las Américas (ITLA)
+
+I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+
+My CV
