@@ -32,3 +32,6 @@ In this section, I will provide a brief description of each project, along with 
 **Description:** This project focuses on analyzing a dataset of video game sales spanning from 1980 to 2020. The dataset includes key information such as the ranking of games based on global sales, game titles, release years, genres, platforms, and other relevant details.
 
 In this project, I loaded, cleaned, and processed the dataset to prepare it for analysis. I then conducted an exploratory data analysis (EDA) to examine various aspects of the dataset, with a particular emphasis on understanding trends and patterns in global sales.
+
+**Technology:** Python, Pandas, Matplotlib
+**Skills:** Data cleaning, data analysis, data visualization.
