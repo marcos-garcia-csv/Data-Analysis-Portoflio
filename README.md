@@ -28,4 +28,6 @@ In this section, I will provide a brief description of each project, along with 
 **Code:** [`Analyzing global video game sales over time.ipynb`](https://github.com/Fuegillo/Portofio-Projects-/blob/main/Games%20Analysis.ipynb)
 **Goal:** To determine global sales by year, publisher, Genre, and Publisher.
 
-**Description:** This project is focused on analyzing a dataset of game sales between 1980 and 2020, this dataset includes the Ranking of games based on global sales, name of the game, Year, Genre, Platform, and other relevant information. In this projects I loaded the dataset, cleaned it and processed it, performed exploratory data analysis(EDA), analyzing most aspects of the dataset based on global sales.
+**Description:** This project focuses on analyzing a dataset of video game sales spanning from 1980 to 2020. The dataset includes key information such as the ranking of games based on global sales, game titles, release years, genres, platforms, and other relevant details.
+
+In this project, I loaded, cleaned, and processed the dataset to prepare it for analysis. I then conducted an exploratory data analysis (EDA) to examine various aspects of the dataset, with a particular emphasis on understanding trends and patterns in global sales.
