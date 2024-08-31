@@ -15,7 +15,7 @@ This is a repository to showcase skills and share projects.
 
 ## Table of Contents
 
-- [About](https://github.com/Fuegillo/Data-Analysis-Portoflio/main/README.md)
+- [About]([https://github.com/Fuegillo/Data-Analysis-Portoflio/main/README.md](https://github.com/Fuegillo/Portofio-Projects-/blob/main/Games%20Analysis.ipynb))
 - [Portfolio Projects]()
   - Python
     - [Analyzing global video games sales over time](https://github.com/Fuegillo/Portofio-Projects-)
