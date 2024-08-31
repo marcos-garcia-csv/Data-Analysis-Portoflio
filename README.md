@@ -19,3 +19,10 @@ This is a repository to showcase skills and share projects.
 - [Portfolio Projects]()
   - Python
     - [Analyzing global video games sales over time](https://github.com/Fuegillo/Portofio-Projects-)
+
+## Portfolio Projects
+
+In this section, I will provide a brief description of each project, along with the specific goals I set for myself to achieve through these endeavors. Each project represents a step in my professional growth, showcasing the objectives I aimed to accomplish and the skills I developed along the way.
+
+### Analyzing global video game sales over time
+**Code:** [`Analyzing global video game sales over time.ipynb`](https://github.com/Fuegillo/Portofio-Projects-/blob/main/Games%20Analysis.ipynb)
