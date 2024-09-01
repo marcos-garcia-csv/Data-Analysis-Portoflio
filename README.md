@@ -33,6 +33,6 @@ In this section, I will provide a brief description of each project, along with 
 
 In this project, I loaded, cleaned, and processed the dataset to prepare it for analysis. I then conducted an exploratory data analysis (EDA) to examine various aspects of the dataset, with a particular emphasis on understanding trends and patterns in global sales.
 
-**Technology:** Python, Pandas, Matplotlib, Jupyter Notebook.
+**Libraries:** Pandas, Matplotlib.
 
 **Skills:** Data cleaning, data analysis, data visualization.
