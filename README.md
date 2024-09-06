@@ -16,13 +16,13 @@ This is a repository to showcase skills and share projects.
 ## Table of Contents
 
 - [About](https://github.com/Fuegillo/Data-Analysis-Portoflio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Fuegillo/Data-Analysis-Portoflio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/Fuegillo/Data-Analysis-Portoflio/edit/main/README.md#analyzing-global-video-game-sales-over-time)
   - Python
     - [Analyzing global video games sales over time](https://github.com/Fuegillo/Portofio-Projects-/blob/main/Video%20Games%20sales%20analysis.ipynb)
 
 ## Portfolio Projects
 
-In this section, I'll briefly describe each project, along with the specific goals I set for myself to achieve through these endeavors. Each project represents a step in my professional growth, showcasing the objectives I aimed to accomplish and the skills I developed along the way.
+In this section, I'll go over each project, along with the specific goals I set for myself to achieve through these endeavors. Each project represents a step in my professional growth, showcasing the objectives I aimed to accomplish and the skills I developed along the way.
 
 ### Analyzing global video game sales over time
 **Code:** [`Analyzing global video game sales over time.ipynb`](https://github.com/Fuegillo/Portofio-Projects-/blob/main/Video%20Games%20sales%20analysis.ipynb)
