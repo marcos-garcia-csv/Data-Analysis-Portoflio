@@ -13,8 +13,8 @@ Here is my [CV](https://github.com/Fuegillo/Data-Analysis-Portoflio/blob/main/Ma
 
 This is a repository to showcase skills and share projects.
 
-## Portfolio Projects
-# Python
+# Portfolio Projects
+## Python
 
 ### Analyzing global video game sales over time
 **Code:** [`Analyzing global video game sales over time.ipynb`](https://github.com/Fuegillo/Portofio-Projects-/blob/main/Video%20Games%20sales%20analysis.ipynb)
