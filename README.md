@@ -24,3 +24,15 @@ In this project, I loaded, cleaned, and processed the dataset to prepare it for 
 **Libraries:** Pandas, Matplotlib.
 
 **Skills:** Data cleaning, data analysis, data visualization.
+
+## SQL
+
+### Analyzing Covid deaths and cases by country and year
+**Code:** [`Covid Deaths`](https://github.com/marcos-garcia-csv/Portofio-Projects-/blob/main/covid_deaths.sql)
+
+**Goal:** The goal is to analyze COVID-19 data to uncover trends, compare country impacts, and derive actionable insights.
+
+**Skills:** Data Aggregation, Grouping and Ordering, Trend Analysis, Statistical Analysis.
+
+
+
