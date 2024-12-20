@@ -30,9 +30,12 @@ In this project, I loaded, cleaned, and processed the dataset to prepare it for 
 ### Analyzing Covid deaths and cases by country and year
 **Code:** [`Covid Deaths`](https://github.com/marcos-garcia-csv/Portofio-Projects-/blob/main/covid_deaths.sql)
 
+
 **Goal:** The goal is to analyze COVID-19 data to uncover trends, compare country impacts, and derive actionable insights.
 
 **Skills:** Data Aggregation, Grouping and Ordering, Trend Analysis, Statistical Analysis.
 
+## Tableau
 
+[`Covid Deaths`](https://public.tableau.com/shared/6GB69NT7Y?:display_count=n&:origin=viz_share_link)
 
