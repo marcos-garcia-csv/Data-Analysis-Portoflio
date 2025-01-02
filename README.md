@@ -22,8 +22,8 @@ Please take a look at my work below:
 **Goal:** The objective of this project is to analyze multi-year sales data to uncover meaningful insights that can drive business decisions. The project focuses on identifying sales trends, seasonal patterns, high-performing products, and regions, as well as analyzing overall business growth over time. By leveraging SQL for data exploration and analysis, this project aims to showcase proficiency in querying, transforming, and aggregating data to derive actionable insights.
 
 **Skills:** 
-  Querying and filtering data.
-  Grouping and aggregating for insights.
+  -- Querying and filtering data.  
+  Grouping and aggregating for insights.  
   Sorting and ranking for detailed analysis.
 
 ## Tableau
