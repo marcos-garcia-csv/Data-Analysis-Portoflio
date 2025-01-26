@@ -31,3 +31,21 @@ Please take a look at my work below:
 [`The Story of Sales`](https://public.tableau.com/app/profile/marcos.garcia6213/viz/SuperStoreSales_17357885091090/TheStoryofSales?publish=yes)
 
 ## Power BI
+
+**Life Expectancy & GDP Dashboard**
+
+[`Dashboard Link`](https://itlaedudo-my.sharepoint.com/:u:/g/personal/20240401_itla_edu_do/EcfKy3uxpHlEpliPf6gA2pQBAPY4ANUoPe3Mf3IuyjyuIA?e=Ce0v6B)
+
+This dashboard provides an interactive exploration of the relationship between life expectancy and GDP over time, helping users identify patterns, 
+disparities among countries, and potential correlations between economic growth and health outcomes.
+
+### Steps followed:
+
+- Step 1: Imported CSV datasets into Power BI Desktop.
+- Step 2: Used Power Query Editor for data cleaning, including removing unnecessary columns, blank rows, and restructuring data.
+- Step 3: Created helper tables to establish relationships between datasets and enable dynamic filtering.
+- Step 4: Designed the dashboard layout, incorporating a cohesive theme.
+- Step 5: Built measures to calculate average life expectancy for males, females, and both sexes.
+- Step 6: Added diverse visuals, including line and bar charts, cards, slicers, and a world map to enhance data exploration.
+
+The dashboard combines a clean design with interactive functionality, making it a powerful tool for exploring the interplay between GDP and life expectancy worldwide.
