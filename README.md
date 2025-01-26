@@ -39,7 +39,7 @@ Please take a look at my work below:
 This dashboard provides an interactive exploration of the relationship between life expectancy and GDP over time, helping users identify patterns, 
 disparities among countries, and potential correlations between economic growth and health outcomes.
 
-** Steps followed: **
+**Steps followed:**
 
 - Step 1: Imported CSV datasets into Power BI Desktop.
 - Step 2: Used Power Query Editor for data cleaning, including removing unnecessary columns, blank rows, and restructuring data.
