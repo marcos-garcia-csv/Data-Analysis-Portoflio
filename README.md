@@ -32,7 +32,7 @@ Please take a look at my work below:
 
 ## Power BI
 
-**Life Expectancy & GDP Dashboard**
+### Life Expectancy & GDP Dashboard
 
 [`Dashboard Link`](https://app.powerbi.com/groups/me/reports/5b98e22e-d196-4af7-9fb5-a480dd5d61e1/1b3268d8d030c3b6baca?experience=power-bi)
 
