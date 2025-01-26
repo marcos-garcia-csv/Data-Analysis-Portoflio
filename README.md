@@ -34,7 +34,7 @@ Please take a look at my work below:
 
 **Life Expectancy & GDP Dashboard**
 
-[`Dashboard Link`](https://itlaedudo-my.sharepoint.com/:u:/g/personal/20240401_itla_edu_do/EcfKy3uxpHlEpliPf6gA2pQBAPY4ANUoPe3Mf3IuyjyuIA?e=2oO48t)
+[`Dashboard Link`](https://app.powerbi.com/groups/me/reports/5b98e22e-d196-4af7-9fb5-a480dd5d61e1/1b3268d8d030c3b6baca?experience=power-bi)
 
 This dashboard provides an interactive exploration of the relationship between life expectancy and GDP over time, helping users identify patterns, 
 disparities among countries, and potential correlations between economic growth and health outcomes.
